@@ -1,3 +1,3 @@
 # churn-prediction
 
-*This readme is a workin progress, just like all of us.*
+*This readme is a work in progress, just like all of us.*
